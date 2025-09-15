@@ -17,11 +17,11 @@
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tsim-imai&theme=react-dark)
 
 ### GitHub Profile Summary Cards
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tsim-imai&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tsim-imai&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tsim-imai&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tsim-imai&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tsim-imai&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tsim-imai&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tsim-imai&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tsim-imai&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tsim-imai&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tsim-imai&theme=github_dark)
 
 ---
 ⭐️ From [tsim-imai](https://github.com/tsim-imai)
